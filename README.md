@@ -4,7 +4,7 @@ I am Tarique Hasan, a seasoned UX/UI Designer with extensive experience in digit
 
 In addition, from my college life, I was loving to code. Since I was studying Computer Science, it has made me a passionate programmer along with UX Architect. Till now I've gathered strong knowledge of C, C++, Java, HTML, CSS,  MySQL, etc. along with a few software, programs, and databases.
 
-I have had the pleasure of working with several exciting companies, including Cloudly, Eventhogs, Sharekorean, Skopa, Pure, and Paladin Drone. I have been part of the creative process, creating products that push the boundaries of design, and have successfully contributed to the bigger goal of these companies, startups, businesses, and public figures both locally and internationally.
+I have had the pleasure of working with several exciting companies, including COdesign, Cloudly, Eventhogs, Sharekorean, Skopa, Pure, and Paladin Drone. I have been part of the creative process, creating products that push the boundaries of design, and have successfully contributed to the bigger goal of these companies, startups, businesses, and public figures both locally and internationally.
 
 In summary, my goal is to empower users by building software that simplifies their everyday lives with a beautifully designed user experience. I am passionate about my work and always strive to think creatively. If you are interested in working together, please feel free to contact me.
 
