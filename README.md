@@ -10,11 +10,11 @@ In summary, my goal is to empower users by building software that simplifies the
 
 <b>Get in touch-</b>
 <br>
-Phone: (+880) 1834 615752
-<br>
 Email: slbfahad@gmail.com
 <br>
-Alternative: labencystudio@gmail.com
+Phone: (+880) 1834 615752
+<br>
+Website: heytarique.com
 <br>
 <a href="www.linkedin.com/in/slbfahad/">LinkedIn</a> | <a href="https://www.facebook.com/slbfahad/">Facebook</a> | <a href="https://join.skype.com/invite/qngmcWOlm7sW">Skype</a>
 
