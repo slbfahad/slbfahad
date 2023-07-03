@@ -1,9 +1,12 @@
 <b>Let's explore Mr. Tarique!</b>
 
-- Hi, I’m Tarique Hasan (@slbfahad), working as a web developer. Besides that, I have a sharp knowledge and expertise in UI/UX design which made me more confident in my work process.
-- I’m interested in exploring new ideas and love to implement them.
-- From my college life, I was loving to code. Since I was studying Computer Science for 4 years, it has made me a passionate programmer along with UX Architect. Till now I've gathered strong knowledge about C, C++, Java, JavaScript, HTML, CSS,  MySQL, React, Node JS, Website/Mobile App UI/UX, etc. along with a few software, programs, and databases.
-- Currently, I'm working at various companies with great expertise in UI/UX and development. Specially I always try to ensure the modern look and feel in design and smart development.
+I am Tarique Hasan, a seasoned UX/UI Designer with extensive experience in digital product design. My work is driven by a desire to create innovative solutions that make complex software simple to use and that transcend people's daily lives. As a UI/UX designer, I take charge of the entire product design process, from ideation to launch. I am skilled in UX and UI design and in identifying problems that arise during the initial iteration of a product's design. I collaborate with developers, marketing teams, and other stakeholders to ensure brand and product synergy. I’m interested in exploring new ideas and love to implement them.
+
+In addition, from my college life, I was loving to code. Since I was studying Computer Science, it has made me a passionate programmer along with UX Architect. Till now I've gathered strong knowledge of C, C++, Java, HTML, CSS,  MySQL, etc. along with a few software, programs, and databases.
+
+I have had the pleasure of working with several exciting companies, including Cloudly, Eventhogs, Sharekorean, Skopa, Pure, and Paladin Drone. I have been part of the creative process, creating products that push the boundaries of design, and have successfully contributed to the bigger goal of these companies, startups, businesses, and public figures both locally and internationally.
+
+In summary, my goal is to empower users by building software that simplifies their everyday lives with a beautifully designed user experience. I am passionate about my work and always strive to think creatively. If you are interested in working together, please feel free to contact me.
 
 <b>Get in touch-</b>
 <br>
