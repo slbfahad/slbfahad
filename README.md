@@ -14,7 +14,7 @@ Email: slbfahad@gmail.com
 <br>
 Phone: (+880) 1834 615752
 <br>
-Website: <a href="[heytarique.com](https://heytarique.com/)">Hey Tarique</a>
+Website: <a href="https://heytarique.com/">Hey Tarique</a>
 <br>
 <a href="www.linkedin.com/in/slbfahad/">LinkedIn</a> | <a href="https://www.facebook.com/slbfahad/">Facebook</a> | <a href="https://join.skype.com/invite/qngmcWOlm7sW">Skype</a>
 
